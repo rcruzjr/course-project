@@ -76,6 +76,16 @@
   }
 }
 
+
+.hide {
+  display: none;
+}
+.form-control { 
+  display: block; 
+}
+p {
+  font-weight: bold;
+}
 body {
   margin: 0;
   font-family: var(--bs-body-font-family);
